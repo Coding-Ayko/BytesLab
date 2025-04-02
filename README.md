@@ -23,12 +23,12 @@ Projeto desenvolvido pelo grupo **BytesLab** para fins acadêmicos, focado na cr
    ```bash
    git clone https://github.com/codyng-ayko/sistema-manicure-byteslab.git
    ```  
-2. Inicie o XAMPP e ative os serviços **Apache** e **SQL Server**.  
-3. Configure o banco de dados no SQL Server e importe o arquivo `banco.sql`.  
+2. Inicie o XAMPP e ative os serviços **Apache**  
+3. Configure o banco de dados no PhpMyAdmin.  
 4. Atualize as credenciais de conexão no arquivo `config.php`.  
 5. Acesse o sistema pelo navegador:  
    ```bash
-   http://localhost/sistema-manicure
+   http://localhost/sistema-manicure-byteslab
    ```  
 
 ## Sobre o BytesLab  
