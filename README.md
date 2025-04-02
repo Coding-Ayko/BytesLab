@@ -21,7 +21,7 @@ Projeto desenvolvido pelo grupo **BytesLab** para fins acadêmicos, focado na cr
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/sistema-manicure.git
+   git clone https://github.com/codyng-ayko/sistema-manicure.git
    ```  
 2. Inicie o XAMPP e ative os serviços **Apache** e **SQL Server**.  
 3. Configure o banco de dados no SQL Server e importe o arquivo `banco.sql`.  
